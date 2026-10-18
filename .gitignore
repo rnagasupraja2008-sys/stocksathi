@@ -1,0 +1,5 @@
+﻿stocksathi.db
+stocksathi.db-wal
+stocksathi.db-shm
+__pycache__/
+.venv/
